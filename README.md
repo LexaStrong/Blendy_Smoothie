@@ -24,3 +24,5 @@ A single-screen product landing hero for **Blendy**, a smoothie brand. Features 
 
 ## Getting Started
 Simply open `index.html` in any modern web browser or serve it with any local static HTTP server.
+
+# Blendy_Smoothie
